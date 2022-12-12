@@ -6,7 +6,7 @@
 
 > npm i -g pnpm
 
-## eslint 设置
+## vscode 设置
 
 ```json
  "eslint.validate": [
@@ -19,3 +19,7 @@
     "source.fixAll": true
   },
 ```
+
+
+## 开启takeover mode
+[look this](https://vuejs.org/guide/typescript/overview.html#volar-takeover-mode)
