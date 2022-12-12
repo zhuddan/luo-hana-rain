@@ -1,0 +1,31 @@
+{
+  "appid": "wx8aa4ff9123e17c10",
+  "compileType": "miniprogram",
+  "condition": {},
+  "description": "just a demo ",
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  },
+  "libVersion": "2.28.1",
+  "miniprogramRoot": "dist/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "projectname": "luo-hana-rain",
+  "setting": {
+    "babelSetting": {
+      "disablePlugins": [],
+      "ignore": [],
+      "outputPath": ""
+    },
+    "compileHotReLoad": false,
+    "enhance": false,
+    "es6": false,
+    "minified": false,
+    "postcss": false,
+    "urlCheck": true
+  },
+  "srcMiniprogramRoot": "dist/"
+}
